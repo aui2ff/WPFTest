@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfApp1/1.0.0": {
+        "dependencies": {
+          "Rubyer": "2.16.11.0"
+        },
+        "runtime": {
+          "WpfApp1.dll": {}
+        }
+      },
+      "Rubyer/2.16.11.0": {
+        "runtime": {
+          "Rubyer.dll": {
+            "assemblyVersion": "2.16.11.0",
+            "fileVersion": "2.16.11.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rubyer/2.16.11.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Rubyer">
+      <HintPath>..\..\..\相关内容研究\WPF控件库Ruyter-WPF\rubyer-WPF\RubyerDemo\bin\Debug\net6.0-windows\Rubyer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
